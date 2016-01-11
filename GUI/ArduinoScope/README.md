@@ -14,9 +14,9 @@ Modules nécessaires :
 
 #Utilisation#
 
-1) Téléverser le scketch .ino dans l'Arduino
+1) Téléverser le scketch **pyArduinoScope.ino** dans l'Arduino
 
-2 )Lancer le programme python
+2) Lancer le programme python :
 ```bash
 python pyArduinoScope.py
 ```
